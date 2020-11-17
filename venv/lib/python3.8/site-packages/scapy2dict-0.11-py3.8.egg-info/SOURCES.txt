@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+scapy2dict.py
+setup.cfg
+setup.py
+scapy2dict.egg-info/PKG-INFO
+scapy2dict.egg-info/SOURCES.txt
+scapy2dict.egg-info/dependency_links.txt
+scapy2dict.egg-info/requires.txt
+scapy2dict.egg-info/top_level.txt
