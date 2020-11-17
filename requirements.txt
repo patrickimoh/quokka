@@ -16,8 +16,5 @@ pika~=1.1.0
 scapy2dict~=0.11
 scapy~=2.4.3
 netaddr~=0.8.0
-<<<<<<< HEAD
 python-nmap~=0.6.1
-=======
 python-nmap~=0.6.1
->>>>>>> 5572940401aa6fe88f353225423b766525c76c82
